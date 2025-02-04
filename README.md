@@ -3,7 +3,7 @@
 A passionate first-year Computer Science student at Amal Jyothi College of Engineering, diving deep into the world of technology!  I'm especially fascinated by the potential of Data Science and AI to revolutionize how we live, and I'm on a constant quest to learn and grow in these exciting fields.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/W1jEGMND95t9pWvkhW/giphy.gif" width="200" height="200" alt="Coding GIF">  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOY4L10&theme=github-compact&height=300" alt="GitHub Activity Graph">  </p>
 
 ## What I'm Learning and Working With
 
@@ -42,7 +42,7 @@ I'm captivated by the power of Data Science and AI to address real-world challen
 
 <p align="center">
   
-  6[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOY4L10&theme=dracula&hide_border=true)](https://github.com/JOY4L10)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOY4L10&theme=dracula&hide_border=true)](https://github.com/JOY4L10)
 
 
 </p>
