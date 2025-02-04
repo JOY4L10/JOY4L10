@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Joyal
 
 A passionate first-year Computer Science student at Amal Jyothi College of Engineering, diving deep into the world of technology!  I'm especially fascinated by the potential of Data Science and AI to revolutionize how we live, and I'm on a constant quest to learn and grow in these exciting fields.
 
