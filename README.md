@@ -41,11 +41,15 @@ I'm captivated by the power of Data Science and AI to address real-world challen
 ## My GitHub Stats
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[your_github_username]&theme=dracula&hide_border=true)](https://github.com/[your_github_username])
+  
+  6[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOY4L10&theme=dracula&hide_border=true)](https://github.com/JOY4L10)
+
+
 </p>
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your_github_username]&layout=compact&langs_count=8&theme=dracula&hide_border=true)](https://github.com/[your_github_username]?tab=repositories)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOY4L10&layout=compact&langs_count=8&theme=dracula&hide_border=true)](https://github.com/JOY4L10?tab=repositories)
 </p>
 
 ## Let's Connect!
