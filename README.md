@@ -59,7 +59,7 @@ I'm always eager to connect with fellow tech enthusiasts and discuss new ideas a
 <p align="center">
   <a href="mailto:[your_email]@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" width="30" height="30"></a>
   <a href="https://www.linkedin.com/in/[your_linkedin_username]" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"></a>
-  <a href="https://www.instagram.com/[your_instagram_username]" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="30" height="30"></a>
+  <a href="https://www.instagram.com/_jo_al__" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="30" height="30"></a>
 </p>
 
 ---
